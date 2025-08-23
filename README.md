@@ -15,12 +15,12 @@ https://github.com/chuien9797/COMP3071_GrpT_Traffic_Signal_Control_with_CTDE
 <br/><br/>
 
 
-## ​ Featured Projects
+## 📌 Featured Projects  
 
- **Intelligent Traffic Light Control System (COMP3071 Group Project)**  
+- 🚦 **Intelligent Traffic Light Control System (COMP3071 Group Project)**  
   Adaptive traffic signal control agent using DQN with shared-policy across intersections under emergency and fault conditions.  
   Built with Python and SUMO (CTDE framework).  
-  **Repo:** [Traffic Light Control with Shared-Policy DQN & CTDE](https://github.com/chuien9797/COMP3071_GrpT_Traffic_Signal_Control_with_CTDE)
+  **Repo:** [Traffic Light Control with Shared-Policy DQN & CTDE](https://github.com/chuien9797/COMP3071_GrpT_Traffic_Signal_Control_with_CTDE)  
 
 
 ⭐️ *“Always eager to learn, build.”*  
