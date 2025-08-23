@@ -1,7 +1,6 @@
 # Hi there 👋, I'm Wern Ning  
 
 💡 Passionate about solving problems through data, machine learning, and software development.  
-
 <br/><br/>
 
 ## 🔧 Skills & Tools  
