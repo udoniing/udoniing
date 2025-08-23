@@ -3,7 +3,6 @@
 💡 Passionate about solving problems through data, machine learning, and software development.  
 <br/>
 
-https://github.com/chuien9797/COMP3071_GrpT_Traffic_Signal_Control_with_CTDE
 
 ## 🔧 Skills & Tools  
 
