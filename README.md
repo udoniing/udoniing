@@ -2,7 +2,6 @@
 
 💡 Passionate about solving problems through data, machine learning, and software development.  
 
----
 
 ## 🔧 Skills & Tools  
 
@@ -12,7 +11,7 @@
 **Data & AI**  
 `Data Analysis & Visualization` · `Machine Learning` · `Tableau` 
 
----
+
 ⭐️ *“Always eager to learn, build.”*  
 
 <!--
