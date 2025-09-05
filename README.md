@@ -22,6 +22,10 @@
   **Repo:** [Traffic Light Control with Shared-Policy DQN & CTDE](https://github.com/chuien9797/COMP3071_GrpT_Traffic_Signal_Control_with_CTDE)  
 <br/><br/>
 
+- 🚦 **Coffee Market Performance Overview**
+  Tracked coffee sales trends across cities with insights into revenue, product performance and market potential using SQL and Tableau.
+  [Coffee Market Dashboard](https://public.tableau.com/views/CoffeeMarketPerformanceOverview/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 
 ⭐️ *“Always eager to learn, build.”*  
