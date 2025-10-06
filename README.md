@@ -16,6 +16,11 @@
 ---
 
 ## 📌 Featured Projects  
+- 🧬 **HER2 Classification Pipeline**  
+  A deep learning pipeline for HER2 classification in breast cancer using paired H&E and IHC histopathological images.  
+  Built on VGG16 and enhanced with cross-entropy, class distinctiveness, spatial coherence, and IHC alignment losses to improve both accuracy and interpretability.  
+  **Repo:** [HER2 Classification Pipeline](https://github.com/udoniing/Deep-Learning-Pipeline-for-HER2-Classification-with-Custom-Loss-Functions)  
+<br/><br/>
 
 - 🚦 **Intelligent Traffic Light Control System**  
   Adaptive traffic signal control agent using DQN with shared-policy across intersections under emergency and fault conditions.  
