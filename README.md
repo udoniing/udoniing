@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Wern Ning  
+# Hi there , I'm Wern Ning  
 
 💡 Passionate about solving problems through data, machine learning, and software development.  
-<br/>
 
+---
 
 ## 🔧 Skills & Tools  
 
@@ -13,6 +13,7 @@
 `Data Analysis & Visualization` · `Machine Learning` · `Tableau` 
 <br/><br/>
 
+---
 
 ## 📌 Featured Projects  
 
@@ -27,6 +28,7 @@
   **Dashboard:** [Coffee Market Dashboard](https://public.tableau.com/views/CoffeeMarketPerformanceOverview/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 <br/><br/>
 
+---
 
 ⭐️ *“Always eager to learn, build.”*  
 
