@@ -4,7 +4,7 @@ Passionate about solving problems through data, machine learning, and software d
 
 ---
 
-## 🔧 Skills & Tools  
+## Skills & Tools  
 
 **Programming & Databases**  
 `Python` · `SQL` · `C` · `Java` · `HTML` · `CSS` · `JavaScript` 
