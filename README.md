@@ -31,12 +31,11 @@ Passionate about solving problems through data, machine learning, and software d
 - **Coffee Market Performance Overview** <br/>
   Tracked coffee sales trends across cities with insights into revenue, product performance and market potential using SQL and Tableau.<br/>
   **Dashboard:** [Coffee Market Dashboard](https://public.tableau.com/views/CoffeeMarketPerformanceOverview/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-<br/><br/>
-
+<br/><br/><br/>
 
 - **Brick Breaker Game** <br/>
   Improved a Java-based game by resolving bugs, enhancing user experience and adding new features and levels<br/>
-  **Dashboard:** [Coffee Market Dashboard](https://github.com/udoniing/Brick-Breaker-Game)
+  **Dashboard:** [Brick Breaker](https://github.com/udoniing/Brick-Breaker-Game)
 <br/><br/>
 
 ---
